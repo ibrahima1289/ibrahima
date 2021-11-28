@@ -7,3 +7,8 @@
 - :cloud: I have a passion for cloud computing: automating manual tasks - scaling and deploying applications.
 - :classical_building: I also went to New York City College of Technology and majored in Applied Mathematics.
 - :swimming_man: I like swimming during my free times.
+
+
+## Certification
+
+* 🥇 [AWS Cloud Practitioner](https://github.com/ibrahima1289/kura-labs-academy/blob/main/certifications/aws-ccp/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)

@@ -5,7 +5,7 @@
 - :student:  I am currently an Infrastructure Automation Fellow at Kura Labs with an interest in DevOps.
 - :computer: I like taking computers apart and learn about the different components.
 - :cloud: I have a passion for cloud computing: automating manual tasks - scaling and deploying applications.
-- :classical_building: I also went to New York City College of Technology and majored in Applied Mathematics.
+- :classical_building: I also went to [CUNY - New York City College of Technology](http://www.citytech.cuny.edu/mathematics/) and majored in Applied Mathematics.
 - :swimming_man: I like swimming during my free times.
 
 

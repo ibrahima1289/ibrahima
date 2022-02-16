@@ -13,7 +13,8 @@
 
 ### Amazon Web Services (AWS)
 
-* 🥇 [AWS Cloud Practitioner](https://github.com/ibrahima1289/kura-labs-academy/blob/main/certifications/aws-ccp/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
+* 🥇 [AWS Certified Cloud Practitioner](https://github.com/ibrahima1289/kura-labs-academy/blob/main/certifications/aws-ccp/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
+* 🥇 [AWS Certified Developer - Associate](https://github.com/ibrahima1289/kura-labs-academy/blob/main/certifications/aws-developer/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
 
 ### Google
 
